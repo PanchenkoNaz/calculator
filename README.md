@@ -1,3 +1,7 @@
-# calculator
+# Calculator
+- HTML
+- CSS
 
-https://panchenkonazar.github.io/calculator/
+Can you view [my project](https://panchenkonaz.github.io/calculator/)
+
+
